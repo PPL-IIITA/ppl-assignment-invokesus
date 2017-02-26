@@ -1,5 +1,5 @@
 
-class Couple:
+class Couple(object):
     """
     Has methods  happiness and compatibility
     """

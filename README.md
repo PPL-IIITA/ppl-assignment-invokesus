@@ -31,3 +31,4 @@ cat logs.txt
 ```
 bash ./doc.sh
 ```
+Or open ./docs/html/index.html in your browser to view it directly.

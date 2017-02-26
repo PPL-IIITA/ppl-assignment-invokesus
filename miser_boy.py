@@ -1,4 +1,4 @@
-class Miser_Boy:
+class Miser_Boy(object):
     def __init__(self, name, attractiveness, intelligence, budget, attraction_requirement, committed, expenditure, paired_to):
         self.name = name
         self.attractiveness = attractiveness

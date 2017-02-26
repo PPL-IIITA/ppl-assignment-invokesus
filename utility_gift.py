@@ -1,4 +1,4 @@
-class Utility_Gift:
+class Utility_Gift(object):
     """
     Associated with the utility value, utility class, value and price. 
     """

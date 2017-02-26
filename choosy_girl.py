@@ -1,5 +1,5 @@
 from  math import log
-class Choosy_Girl:
+class Choosy_Girl(object):
     """
     Values luxury gifts more.
     Luxury gift assigned twice the value.

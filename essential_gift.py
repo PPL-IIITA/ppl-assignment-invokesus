@@ -1,4 +1,4 @@
-class Essential_Gift:
+class Essential_Gift(object):
     """
     Bare minimal gifts and are associated with a price and value.
     """

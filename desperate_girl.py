@@ -1,5 +1,5 @@
 from math import pow, e
-class Desperate_Girl:
+class Desperate_Girl(object):
     """
     Happiness is exponential function of attribute gift_appreciation
     The desperate, whose happiness in a relationship is exponential to the total cost of gifts received over maintenance, including luxury gifts. The value is not considered.

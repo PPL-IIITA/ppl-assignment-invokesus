@@ -1,4 +1,4 @@
-class Normal_Girl:
+class Normal_Girl(object):
     """
     The choosy, whose happiness in a relationship is logarithmic of the total cost of gifts achieved over maintenance. However the luxury gifts are very previous and count double the normal value.
     """

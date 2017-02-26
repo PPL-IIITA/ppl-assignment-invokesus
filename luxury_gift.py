@@ -1,4 +1,4 @@
-class Luxury_Gift:
+class Luxury_Gift(object):
     """
     Attributes of the luxury rating, difficulty to obtain the gift, value and price.
     """
