@@ -1,7 +1,6 @@
 ##PPL-Assignment
 
-####Souvik Sen
-####IIT2015505
+####Souvik Sen - IIT2015505
 
 **To generate new testing data**
 
@@ -25,4 +24,10 @@ python3 q2.py
 
 ```
 cat logs.txt
+```
+
+**To view docs**
+
+```
+bash ./doc.sh
 ```
