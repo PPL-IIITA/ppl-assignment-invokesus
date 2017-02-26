@@ -1,5 +1,13 @@
 from  math import log
 class Choosy_Girl:
+    """
+    Values luxury gifts more.
+    Luxury gift assigned twice the value.
+
+    Happiness is logarithmic function of attribute gift_appreciation
+    The choosy, whose happiness in a relationship is logarithmic of the total cost of gifts achieved over maintenance. However the luxury gifts are very previous and count double the normal value.
+
+    """
     def __init__(self, name, attractiveness, intelligence, maintenance, committed, paired_to):
         self.name = name
         self.attractiveness = attractiveness 

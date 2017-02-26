@@ -1,4 +1,7 @@
 class Luxury_Gift:
+    """
+    Attributes of the luxury rating, difficulty to obtain the gift, value and price.
+    """
     def __init__ (self, price, value, luxury_rating, difficulty_to_obtain):
             self.price = price
             self.value = value

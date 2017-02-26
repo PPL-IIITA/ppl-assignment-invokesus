@@ -1,18 +1,23 @@
-*Usage*
->source ./setup.sh
+**To generate new testing data**
 
-*To generate new testing data*
+```
+python3 tester.py
+```
 
->python tester.py
+**To form Couples from the generated test data**
 
-*To form Couples from the generated test data*
+```
+python3 q1.py
+```
 
->python q1.py
+**To perform gifting and to find the  happiest and most compatible k couples**
 
-*To perform gifting and to find the k - happiest and most compatible couples*
+```
+python3 q2.py
+```
 
->python q2.py
+**To view the logs**
 
-*To view the logs*
-
->cat logs.txt
+```
+cat logs.txt
+```
