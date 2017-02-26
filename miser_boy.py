@@ -8,6 +8,7 @@ class Miser_Boy:
         self.expenditure = expenditure 
         self.paired_to = paired_to
         self.happiness = 0
+        self.type = "Miser"
 
     def happiness(self):
         self.happiness =(self.budget - self.expenditure) 

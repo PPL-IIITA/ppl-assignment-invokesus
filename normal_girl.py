@@ -6,4 +6,12 @@ class Normal_Girl:
         self.maintenance = maintenance
         self.committed = committed
         self.paired_to = paired_to
+        self.gift_appreciation = 0
+        self.type = "Normal"
+
+    def giftworth (self, gift):
+        self.gift_appreciation += (gift[2] +gift[3]) 
+
+    def happiness (self):
+        return (self.gift_appreciation)
 

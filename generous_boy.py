@@ -8,6 +8,7 @@ class Generous_Boy:
         self.expenditure = expenditure 
         self.paired_to = paired_to
         self.happiness = 0
+        self.type = "Generous"
 
     def happiness(self, g):
         self.happiness = g.happiness
