@@ -13,7 +13,7 @@ print ("The value of k is a random integer and in this case it is " +(str(len(ha
 print (str(len(happy_couples_list)) + " happiest couples are:")
 for i in happy_couples_list:
     print ("Boy: " + i.boy.name + " Girl: " + i.girl.name + " Happiness: " + str(i.happiness()))
-print ()
+print ('')
 print (str(len(compatible_couples_list)) + " most compatible couples are:")
 for i in compatible_couples_list:
     print ("Boy: " + i.boy.name + " Girl: " + i.girl.name + " Compatibility: " + str(i.compatibility()))
