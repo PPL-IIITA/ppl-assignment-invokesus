@@ -23,12 +23,12 @@ def generate():
 
     Syntax of each row of boys.csv
 
-    || Name || Attractiveness || Intelligence || Budget || Committed || Expenditure || Paired_To || Type_of_Boyfriend ||
-        str      int <1,10>      int <1,10>  int <200,2000>  bool       int <0,2000>     str              str 
+    || Name || Attractiveness || Intelligence || Budget || Attraction_Requirements|| Committed || Expenditure || Paired_To || Type_of_Boyfriend ||
+        str      int <1,10>      int <1,10>  int <200,2000>      int<1,10>              bool       int <0,2000>     str              str 
 
     """
 
-    Boy = [(create_name(),randint(1,10),randint(1,10),randint(200,2000), False, 0, "", choice(Boyfriend_Types)) for i in range( NO_OF_BOYS )]
+    Boy = [(create_name(),randint(1,10),randint(1,10),randint(200,2000), randint(1,10), False, 0, "", choice(Boyfriend_Types)) for i in range( NO_OF_BOYS )]
 
     """
 

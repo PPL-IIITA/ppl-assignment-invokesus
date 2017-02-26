@@ -16,7 +16,7 @@ G = []
 couples = []
 
 def check_eligibility(boy, girl):
-    if (boy.budget < girl.maintenance) or boy.committed or girl.committed: 
+    if (boy.budget < girl.maintenance) or (girl.attractiveness < boy.attraction_requirement) or boy.committed or girl.committed: 
         return False
     else :
         return True
@@ -27,13 +27,14 @@ def sanitized_boy(row):
     arguments.append(int(row[1]))
     arguments.append(int(row[2]))
     arguments.append(int(row[3]))
-    if row[4] == 'False':
+    arguments.append(int(row[4]))
+    if row[5] == 'False':
         arguments.append(False)
     else:
         arguments.append(True) 
-    arguments.append(int(row[5]))
-    arguments.append(row[6])
+    arguments.append(int(row[6]))
     arguments.append(row[7])
+    arguments.append(row[8])
     return arguments
 
 def sanitized_girl(row):
