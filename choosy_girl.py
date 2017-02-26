@@ -9,10 +9,12 @@ class Choosy_Girl:
         self.paired_to = paired_to
         self.type = "Choosy"
         self.gift_appreciation = 0
+
     def giftworth (self, gift):
         if gift[1] == "Luxury":
             self.gift_appreciation += gift[2] *2
         else :
             self.gift_appreciation += gift[2] 
+
     def happiness (self):
         return (log(self.gift_appreciation))

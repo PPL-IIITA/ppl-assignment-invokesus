@@ -3,6 +3,7 @@ from couple import Couple
 import logging
 
 logging.basicConfig(format='%(asctime)s %(name)s -  %(message)s:',datefmt='%d/%m/%Y %I:%M:%S %p',level=logging.DEBUG,filename='log.txt',filemode='a')
+
 def gift_sort():
     with open('gifts.csv', 'r') as csvfile:
         reader = csv.reader(csvfile, delimiter = ',')

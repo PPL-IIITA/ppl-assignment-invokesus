@@ -9,8 +9,10 @@ class Desperate_Girl:
         self.paired_to = paired_to
         self.type = "Desperate"
         self.gift_appreciation = 0
+
     def giftworth (self, gift):
             self.gift_appreciation += gift[2] 
+
     def happiness (self):
         return ((self.gift_appreciation))
 
