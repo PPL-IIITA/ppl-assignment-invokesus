@@ -10,7 +10,6 @@ import csv
 import logging
 import pickle
 
-logging.basicConfig(format='%(asctime)s %(name)s - %(levelname)s %(message)s:',datefmt='%d/%m/%Y %I:%M:%S %p',level=logging.DEBUG,filename='log.txt',filemode='w')
 
 B = []
 G = []
