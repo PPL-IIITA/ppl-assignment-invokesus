@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['luxury_5fgift',['Luxury_Gift',['../classluxury__gift_1_1_luxury___gift.html',1,'luxury_gift']]]
+  ['happiness',['happiness',['../classcouple_1_1_couple.html#ab7ac98ab6a0dd03bf75790f949cb0c90',1,'couple::Couple']]]
 ];

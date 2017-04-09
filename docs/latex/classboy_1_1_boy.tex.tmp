@@ -1,0 +1,48 @@
+\hypertarget{classboy_1_1_boy}{}\section{boy.\+Boy Class Reference}
+\label{classboy_1_1_boy}\index{boy.\+Boy@{boy.\+Boy}}
+
+
+Inheritance diagram for boy.\+Boy\+:
+% FIG 0
+
+
+Collaboration diagram for boy.\+Boy\+:
+% FIG 1
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classboy_1_1_boy_a22ebd2a16d1a7488e5bdda468a262d31}\label{classboy_1_1_boy_a22ebd2a16d1a7488e5bdda468a262d31}} 
+def {\bfseries \+\_\+\+\_\+init\+\_\+\+\_\+} (self, name, attractiveness, intelligence, budget, attraction\+\_\+requirement, committed, expenditure, paired\+\_\+to)
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classboy_1_1_boy_a76abe0ce85f213d3d35aa065cdc3df84}\label{classboy_1_1_boy_a76abe0ce85f213d3d35aa065cdc3df84}} 
+{\bfseries name}
+\item 
+\mbox{\Hypertarget{classboy_1_1_boy_a7b5ffbf1097cc6c49abe30ab6423205a}\label{classboy_1_1_boy_a7b5ffbf1097cc6c49abe30ab6423205a}} 
+{\bfseries attractiveness}
+\item 
+\mbox{\Hypertarget{classboy_1_1_boy_aeb758431bad4b85786f684f906f7479d}\label{classboy_1_1_boy_aeb758431bad4b85786f684f906f7479d}} 
+{\bfseries intelligence}
+\item 
+\mbox{\Hypertarget{classboy_1_1_boy_a9847b5dd44c43acc72c9fa3ea8cb916a}\label{classboy_1_1_boy_a9847b5dd44c43acc72c9fa3ea8cb916a}} 
+{\bfseries budget}
+\item 
+\mbox{\Hypertarget{classboy_1_1_boy_a9bc24ab0c309e7dd64b8d6be3607e29d}\label{classboy_1_1_boy_a9bc24ab0c309e7dd64b8d6be3607e29d}} 
+{\bfseries attraction\+\_\+requirement}
+\item 
+\mbox{\Hypertarget{classboy_1_1_boy_a034f62b120cb7a64eb4a5e5f375a1790}\label{classboy_1_1_boy_a034f62b120cb7a64eb4a5e5f375a1790}} 
+{\bfseries committed}
+\item 
+\mbox{\Hypertarget{classboy_1_1_boy_a32c4a489a35fff88b0060a4a38cfd346}\label{classboy_1_1_boy_a32c4a489a35fff88b0060a4a38cfd346}} 
+{\bfseries expenditure}
+\item 
+\mbox{\Hypertarget{classboy_1_1_boy_a7666b837e403799b1999e6a0a7024b51}\label{classboy_1_1_boy_a7666b837e403799b1999e6a0a7024b51}} 
+{\bfseries paired\+\_\+to}
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+boy.\+py\end{DoxyCompactItemize}

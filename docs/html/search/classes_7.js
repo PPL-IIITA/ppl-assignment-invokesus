@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['utility_5fgift',['Utility_Gift',['../classutility__gift_1_1_utility___gift.html',1,'utility_gift']]]
+  ['normal_5fgirl',['Normal_Girl',['../classnormal__girl_1_1_normal___girl.html',1,'normal_girl']]]
 ];
