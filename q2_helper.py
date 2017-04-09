@@ -44,7 +44,7 @@ def gifting(couples_list, gift_list):
 
         #Tries to buy one luxury gift with the rest of the budget if a Geek
         if b.type == "Geek":
-            while (j < 1000): 
+            while (j < 1000):
                 if gift_list[j][1] == "Luxury":
                     if (b.budget -b.expenditure - gift_list[j][2] > 0 ):
                         b.expenditure += gift_list[j][2]

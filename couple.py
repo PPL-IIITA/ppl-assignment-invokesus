@@ -10,8 +10,8 @@ class Couple(object):
         """
         The happiness of a couple is defined as the sum of the happiness of both girl and boy.
         """
-        return (self.boy.happiness + self.girl.happiness()) 
-
+        return ( self.girl.happiness())
+        # self.boy.happiness(self.girl) +
     def compatibility(self):
         """
         The compatibility of a couple is defined as the sum of: magnitude by which the budget of the boy exceeds the maintenance cost of the girl, the absolute value of the difference in attractiveness, and the absolute value of the difference of intelligence.
