@@ -7,7 +7,7 @@ import csv
 from couple import Couple
 import logging
 import random
-k = 0
+k = 1
 
 logging.basicConfig(format='%(asctime)s %(name)s -  %(message)s:',datefmt='%d/%m/%Y %I:%M:%S %p',level=logging.DEBUG,filename='log.txt',filemode='a')
 
@@ -77,7 +77,8 @@ def gifting(couples_list, gift_list):
         C = Couple (b,g)
         happy_couples_list.append(C)
     global k
-    k = random.randint(1, len(couples_list) - 1)
+    if len(couples_list) > 1:
+        k = random.randint(1, len(couples_list) - 1)
     return happy_couples_list
 
 def sort_by_happiness (couples_list):
