@@ -7,3 +7,6 @@ class Girl(object):
         self.committed = committed
         self.paired_to = paired_to
         self.gift_appreciation = 0
+
+    def happiness():
+        pass

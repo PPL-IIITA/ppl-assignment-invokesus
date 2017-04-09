@@ -7,4 +7,4 @@ class Generous_Boy(Boy):
 
     def happiness(self, g):
         self.happiness = g.happiness
-        return (g.happiness)
+        return (g.happiness())
