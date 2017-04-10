@@ -65,6 +65,7 @@ $python3 q6.py
 ```
 $python3 q7.py
 ```
+
 **To view the logs**
 
 ```
