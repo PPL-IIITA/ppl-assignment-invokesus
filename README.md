@@ -60,8 +60,11 @@ $python3 q5.py
 ```
 $python3 q6.py
 ```
-###### Question 6:
+###### Question 7:
 **Use 3 different data structures to find the partners of a list of boys**
+```
+$python3 q7.py
+```
 **To view the logs**
 
 ```
