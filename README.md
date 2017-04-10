@@ -75,7 +75,8 @@ Run any web server in this directory and open docs/index.html in any browser to 
 
 **To view the class diagram**
 
-Open the `./class_diagram.png` file
+Open the `./class_diagram.pdf` file
+Open the `./doc_q7.pdf` file to see the documentation of the classes used in Q7
 
 #### Tools Used
 Automatic documentation generation: `Doxygen`  
