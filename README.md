@@ -60,7 +60,8 @@ $python3 q5.py
 ```
 $python3 q6.py
 ```
-
+###### Question 6:
+**Use 3 different data structures to find the partners of a list of boys**
 **To view the logs**
 
 ```
@@ -73,7 +74,7 @@ To manually access documentation offline, all the HTML files of the documentatio
 Run any web server in this directory and open docs/index.html in any browser to view the documentation.
 
 
-**To view the class diagram**
+#### Class Diagrams
 
 Open the `./class_diagram.pdf` file
 Open the `./doc_q7.pdf` file to see the documentation of the classes used in Q7
