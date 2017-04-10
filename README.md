@@ -10,9 +10,9 @@
 * [Tools Used](#tools-used)  
 
 #### Build Details
-Developed and Tested on:  
 | *OS* | macOS Sierra |
 | --- | --- |
+| *Version* | 10.12.5 |
 | *Xcode Version* | 8.1 (8B62) |  
 | *Apple LLVM Version* | 8.0.0 (clang-800.0.42.1) |
 | *Documentation Generator* | `Doxygen`, `Pyreverse` |
