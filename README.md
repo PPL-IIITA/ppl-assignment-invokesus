@@ -67,7 +67,7 @@ $python3 q6.py
 $cat logs.txt
 ```
 #### Documentation
-
+Online Documentation is available at : [Docs](https://ppl-iiita.github.io/ppl-assignment-invokesus/docs/html/index.html)
 
 To manually access documentation offline, all the HTML files of the documentation have been included in `./docs` directory.
 Run any web server in this directory and open docs/index.html in any browser to view the documentation.
