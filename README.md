@@ -11,8 +11,8 @@
 
 #### Build Details
 Developed and Tested on:  
-
 | *OS* | macOS Sierra |
+| --- | --- |
 | *Xcode Version* | 8.1 (8B62) |  
 | *Apple LLVM Version* | 8.0.0 (clang-800.0.42.1) |
 | *Documentation Generator* | `Doxygen`, `Pyreverse` |
